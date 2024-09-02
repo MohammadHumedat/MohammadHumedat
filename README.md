@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My names Mohammad Hmedat and I'm a mobile developer(cross platform) using dart and flutter, 
+My name is Mohammad Hmedat, and I work as a cross-platform mobile developer with Dart and Flutter.
 
 
 - 🔭 I’m currently working on improving my skills as a software engineer.
@@ -10,11 +10,10 @@ My names Mohammad Hmedat and I'm a mobile developer(cross platform) using dart a
 - 📫 How to reach me:
 
 	
-  [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/tarekalabd/)
-  [!["YouTube"](https://img.shields.io/youtube/channel/subscribers/UCMQeTJFwpvbeXjLPrd9_eQw?label=TarekAlabd&style=social)](https://youtube.com/TarekAlabd)
-  [!["Medium"](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@tarekalabd)
-  [!["My Website"](https://img.shields.io/badge/Website-tarekalabd.com-orange)](https://tarekalabd.com)
-  [!["My Blog"](https://img.shields.io/badge/Blog-blog.tarekalabd.net-orange)](https://blog.tarekalabd.net)
+  [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mohammad-hmedat-551a52257/)
+  [!["codeforces"](https://codeforces.com/)](https://codeforces.com/profile/mohammad2004)
+  [!["Facebook"](https://www.facebook.com/)](https://www.facebook.com/profile.php?id=100011519467109&mibextid=ZbWKwL)
+  
 
 
 **MohammadHumedat/MohammadHumedat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
