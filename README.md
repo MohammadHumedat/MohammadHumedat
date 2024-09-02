@@ -11,8 +11,10 @@ My name is Mohammad Hmedat, and I work as a cross-platform mobile developer with
 
 	
   [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mohammad-hmedat-551a52257/)
-  [!["codeforces"](https://codeforces.com/)](https://codeforces.com/profile/mohammad2004)
-  [!["Facebook"](https://www.facebook.com/)](https://www.facebook.com/profile.php?id=100011519467109&mibextid=ZbWKwL)
+  [!["codeforces"](https://img.shields.io/badge/Codeforces-blue?style=flat&logo=codeforces&labelColor=blue
+)](https://codeforces.com/profile/mohammad2004)
+  [!["Facebook"](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&labelColor=blue
+)](https://www.facebook.com/profile.php?id=100011519467109&mibextid=ZbWKwL)
   
 
 
