@@ -19,3 +19,5 @@ My name is Mohammad Hmedat, and I work as a cross-platform mobile developer with
 "I’m not a great programmer; I’m just a good programmer
 with great habits."
 
+"Programs must be written for people to read, and only
+incidentally for machines to execute."
