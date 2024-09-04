@@ -16,5 +16,6 @@ My name is Mohammad Hmedat, and I work as a cross-platform mobile developer with
   [!["Facebook"](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&labelColor=1877F2&logoColor=white
 )](https://www.facebook.com/profile.php?id=100011519467109&mibextid=ZbWKwL)
   
-
+"I’m not a great programmer; I’m just a good programmer
+with great habits."
 
