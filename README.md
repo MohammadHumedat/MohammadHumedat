@@ -24,4 +24,4 @@ with great habits."
 "Programs must be written for people to read, and only
 incidentally for machines to execute."
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mohammad%20Hmedat&theme=jolly&hide_border=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mohammad%20Hmedat&theme=jolly&hide_border=true&hide_longest_streak=true)](https://git.io/streak-stats)
