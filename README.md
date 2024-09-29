@@ -24,4 +24,4 @@ with great habits."
 "Programs must be written for people to read, and only
 incidentally for machines to execute."
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,firbase,dart,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,firbase,dart,flutter)]
