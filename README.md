@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is Mohammad Hmedat, and I work as a cross-platform mobile developer with Dart and Flutter.
+My name is Mohammad Hmedat, and I work as Software engineer with Focus on Backend engineering and cross-platform mobile development.
 
 
 - 🔭 I’m currently working on improving my skills as a software engineer.
-- 🌱 I’m currently curious about mobile and backend development.
+- 🌱 I’m currently curious about mobile and backend engineering.
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me:
 
@@ -17,7 +17,7 @@ My name is Mohammad Hmedat, and I work as a cross-platform mobile developer with
   
   Contact with me on email 📧 : humedat23@gmail.com
   
-"I’m not a great programmer; I’m just a good programmer
+"I’m not a great programmer; I’m just a good engineer
 with great habits."
 
 "Programs must be written for people to read, and only
